@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="lyj" type="Application" factoryName="Application">
+    <envs>
+      <env name="lyjeeeeeeee" value="aa" />
+    </envs>
+    <option name="MAIN_CLASS_NAME" value="test" />
+    <module name="test5" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
